@@ -13,6 +13,9 @@
         private static void Tester(IDuck duck)
         {
             duck.Fly();
+
+
+
             duck.Quack();
         }
     }
